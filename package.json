@@ -1,0 +1,23 @@
+{
+  "name": "16personalities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hahnap4/16personalities.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hahnap4/16personalities/issues"
+  },
+  "homepage": "https://github.com/hahnap4/16personalities#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3",
+    "typescript": "^5.8.3"
+  }
+}
